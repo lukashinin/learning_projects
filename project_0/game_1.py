@@ -18,4 +18,4 @@ while True:
     else: 
         print(f'You guessed the number! This number is {number}, you used {count} attempts. See you!')
         break #End of the game. Exiting the loop
-        
+print('saffafa') 
