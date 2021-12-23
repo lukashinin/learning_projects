@@ -17,7 +17,6 @@
 ### 1. Description of the projects
 The program guesses a random number after a certain number of attempts
 
-:arrow_up: [Go to contents](https://github.com/lukashinin/learning_projects/blob/main/project_0/README.md#Contents)
 
 ### 2. What problem are we solving?
 You need to write a program that finds a randomly generated number in an array of numbers in the minimum number of attempts. The search algorithm should find a number in less than 20 attempts.
@@ -41,3 +40,5 @@ Correctly working program
 
 ### 6. Conclusion
 The "Binary Search" algorithm finds on average a number in a sorted array in 5 attempts
+
+:arrow_up: [Go to contents](https://github.com/lukashinin/learning_projects/blob/main/project_0/README.md#Contents)
