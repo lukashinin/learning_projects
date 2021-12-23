@@ -1,24 +1,24 @@
 # Project 0. Guess the number / Угадай число
 
 ## Contents
-[1. Description of the projects](https://github.com/lukashinin/learning_projects/blob/main/project_0/README.md###Description-of-the-projects)
+[1. Description of the projects](https://github.com/lukashinin/learning_projects/blob/main/project_0/README.md#Description-of-the-projects)
 
-[2. What problem are we solving?](https://github.com/lukashinin/learning_projects/blob/main/project_0/README.md###Description-of-the-projects)
+[2. What problem are we solving?](https://github.com/lukashinin/learning_projects/blob/main/project_0/README.md#What-problem-are-we-solving)
 
-[3. Information about the input and output information]()
+[3. Information about the input and output information](https://github.com/lukashinin/learning_projects/blob/main/project_0/README.md#Information-about-the-input-and-output-information)
 
-[4. Stages of work on the project]()
+[4. Stages of work on the project](https://github.com/lukashinin/learning_projects/blob/main/project_0/README.md#Stages-of-work-on-the-project)
 
-[5. Result]()
+[5. Result](https://github.com/lukashinin/learning_projects/blob/main/project_0/README.md#Result)
 
-[6. Conclusion]()
+[6. Conclusion](https://github.com/lukashinin/learning_projects/blob/main/project_0/README.md#Conclusion)
 
 
-### 1. Description of the projects
+### Description of the projects
 The program guesses a random number after a certain number of attempts
 
 
-### 2. What problem are we solving?
+### What problem are we solving?
 You need to write a program that finds a randomly generated number in an array of numbers in the minimum number of attempts. The search algorithm should find a number in less than 20 attempts.
 
 #### Working conditions:
@@ -29,16 +29,16 @@ You need to write a program that finds a randomly generated number in an array o
 #### Quality metric
 Results are measured by the average number of attempts at 1000 repetitions. The minimum number of attempts must be achieved.
 
-### 3. Information about the input and output information
+### Information about the input and output information
 There is no input as the program generates a random number from numpy in the body of the program.
 The output is the average number of attempts for which the written algorithm finds a number.
 
-### 4. Stages of work on the project
+### Stages of work on the project
 
-### 5. Result
+### Result
 Correctly working program
 
-### 6. Conclusion
+### Conclusion
 The "Binary Search" algorithm finds on average a number in a sorted array in 5 attempts
 
 :arrow_up: [Go to contents](https://github.com/lukashinin/learning_projects/blob/main/project_0/README.md#Contents)
