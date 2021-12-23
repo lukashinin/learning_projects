@@ -1,7 +1,7 @@
 # Project 0. Guess the number / Угадай число
 
 ## Contents
-[1. Description of the projects](https://github.com/lukashinin/learning_projects/blob/main/project_0/README.md#1.-Description-of-the-projects)
+[1. Description of the projects](https://github.com/lukashinin/learning_projects/blob/main/project_0/README.md#Description-of-the-projects)
 
 [2. What problem are we solving?]()
 
