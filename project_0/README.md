@@ -15,7 +15,7 @@
 [6. Conclusion](https://github.com/lukashinin/learning_projects/blob/main/project_0/README.md#Conclusion)
 
 
-### 1 Description of the projects
+### Description of the projects
 The program guesses a random number after a certain number of attempts
 
 
