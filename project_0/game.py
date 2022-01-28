@@ -8,7 +8,7 @@ def random_predict(number: int = 1) -> int:
     Args:
         number (int, optional): Generated number. Defaults to 1.
     Returns:
-        int: Number of attempts
+        int: Number of attempts 1
     """
     count = 0 # Attempt counter
     predict_number_min = 1 # lower limit of number search
