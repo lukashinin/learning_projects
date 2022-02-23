@@ -14,6 +14,10 @@
 ### Описание проекта
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но, прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить.
 
+Восстановить окружение:
+            enviroment - https://github.com/lukashinin/learning_projects/blob/main/Analysis%20of%20resume%20data%20from%20the%20HH/enviroment.yaml
+            requirements - https://github.com/lukashinin/learning_projects/blob/main/Analysis%20of%20resume%20data%20from%20the%20HH/requirements.txt
+
 
 ### Какой кейс решаем?
 Нужно решить задачу подготовки данных для построения модели, которая состоит из 4 частей:
