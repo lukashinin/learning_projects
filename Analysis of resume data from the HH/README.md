@@ -1,4 +1,4 @@
-# Проект 2. Подготовка данных для построения модели (задача от компании HeadHunter) 
+# Analysis of resume data from the HH
 
 ## Оглавление
 [1. Описание проекта](https://github.com/lukashinin/learning_projects/tree/main/Analysis%20of%20resume%20data%20from%20the%20HH/README.md#Описание-проекта)
